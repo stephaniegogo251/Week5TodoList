@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url('C:\\Users\\steph\\week5ToDoList\\to-do-list-app\\public\\grbg.jpg');
+  background-image: url('../public/grbg.jpg');
   background-repeat: no-repeat;
   background-size: 100% 285%;
   display: flex;
